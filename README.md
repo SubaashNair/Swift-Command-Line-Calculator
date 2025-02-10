@@ -65,10 +65,3 @@ Contributions are welcome! Feel free to fork the repo, improve the code, and sub
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 🚀 Happy Coding! 🎯
-
-This README file provides:
-✔ A clear **title**  
-✔ A brief **introduction**  
-✔ **Installation** and **usage** instructions  
-✔ **Example usage**  
-✔ A **to-do list** for potential improvements  

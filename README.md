@@ -16,20 +16,23 @@ A simple, interactive **Command Line Calculator** built using **Swift**, designe
 Ensure you have **Swift** installed on your system. You can check by running:
 ```bash
 swift --version
+```
 
 If not installed, you can download it from Swift.org.
 
 🔧 Installation & Running the Calculator
     1.    Clone this repository (if using GitHub):
-
+    
+```bash
 git clone https://github.com/your-username/Swift-CLI-Calculator.git
 cd Swift-CLI-Calculator
-
+```
 
     2.    Compile and Run the Swift file:
-
+    
+```bash
 swift calculator.swift
-
+```
 
     3.    Follow the on-screen prompts to perform calculations.
 
